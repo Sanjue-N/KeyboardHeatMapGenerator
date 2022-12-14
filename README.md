@@ -7,7 +7,7 @@ licence GPLv3
 
 program generates out of an input file
 
-	 which has 1 file location per line
+which has 1 file location per line
 
 an output files for destrebution of Keys presset in promill, based on the ASCII values of the char's (accepted non ASCII chars ß, ä, ö, ü, Ä, Ö, Ü)
 
